@@ -6,9 +6,9 @@ course made by [Mosh Hamedani](https://github.com/mosh-hamedani) on [Udemy](http
 
 ## Note: Individual exercises are executed on each branch of this repository.
 
-### Using a Package - Underscore (https://github.com/daleaguil/nodejs-mosh/tree/sec3-usingapackage-underscore)
-### HTTP Module (https://github.com/daleaguil/nodejs-mosh/tree/sec2-httpmodule)
-### Extending Event Emitter (https://github.com/daleaguil/nodejs-mosh/tree/sec2-extendingeventemitter)
-### Events Module (https://github.com/daleaguil/nodejs-mosh/tree/sec2-eventsmodule)
-### File System Module (https://github.com/daleaguil/nodejs-mosh/tree/sec2-filesystemmodule)
-### OS Module (https://github.com/daleaguil/nodejs-mosh/tree/sec2-osmodule)
+### [Using a Package - Underscore](https://github.com/daleaguil/nodejs-mosh/tree/sec3-usingapackage-underscore)
+### [HTTP Module](https://github.com/daleaguil/nodejs-mosh/tree/sec2-httpmodule)
+### [Extending Event Emitter](https://github.com/daleaguil/nodejs-mosh/tree/sec2-extendingeventemitter)
+### [Events Module](https://github.com/daleaguil/nodejs-mosh/tree/sec2-eventsmodule)
+### [File System Module](https://github.com/daleaguil/nodejs-mosh/tree/sec2-filesystemmodule)
+### [OS Module](https://github.com/daleaguil/nodejs-mosh/tree/sec2-osmodule)
